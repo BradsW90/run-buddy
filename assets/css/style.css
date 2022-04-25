@@ -116,22 +116,23 @@ button {
   border: none;
 }
 
-.flyer h2 {
+.intro {
   text-align: center;
+}
+
+.intro h2 {
   color: #024e76;
-  font-size: 2em;
-  margin: 40px 0 10px 0;
+  font-size: 55px;
+  margin-bottom: 35px;
+  padding: 0 100px 20px 100px;
+  border-bottom: 3px solid;
+  border-color: #fce138;
+  display: inline-block;
 }
-
-.flyer hr {
-  border: 2px solid #fce138;
-  width: 300px;
+.intro p {
+  line-height: 1.7;
+  color: #39a6b2;
+  width: 80%;
+  font-size: 20px;
   margin: auto;
-  background-color: #fce138;
-  border-radius: 10px;
-  margin-bottom: 25px;
-}
-
-.flyer p {
-  margin: 0 400px 40px 400px;
 }
