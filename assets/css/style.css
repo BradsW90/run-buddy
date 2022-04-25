@@ -85,3 +85,33 @@ footer a {
   bottom: 120px;
   right: 140px;
 }
+section div h3 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.hero-form p {
+  margin: 5px 0 15px 0;
+}
+
+.form-input {
+  border: 1px solid #024e76;
+  font-size: 1em;
+  display: block;
+  width: 100%;
+  margin-bottom: 15px;
+  color: #024e76;
+  padding: 7px 15px;
+}
+
+.hero-form label {
+  margin: 0 5px;
+}
+
+button {
+  background-color: #024e76;
+  color: #fce138;
+  font-size: 1em;
+  padding: 10px 20px;
+  border: none;
+}
