@@ -115,3 +115,23 @@ button {
   padding: 10px 20px;
   border: none;
 }
+
+.flyer h2 {
+  text-align: center;
+  color: #024e76;
+  font-size: 2em;
+  margin: 40px 0 10px 0;
+}
+
+.flyer hr {
+  border: 2px solid #fce138;
+  width: 300px;
+  margin: auto;
+  background-color: #fce138;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+.flyer p {
+  margin: 0 400px 40px 400px;
+}
