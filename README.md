@@ -18,4 +18,4 @@ https://bradsw90.github.io/run-buddy/
 Made with ❤️ by Bradley Woodle
 
 
-### &copy 2019 Run Buddy, Inc
+### &copy;2019 Run Buddy, Inc
