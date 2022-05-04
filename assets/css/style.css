@@ -135,19 +135,15 @@ button {
   border: none;
 }
 
-.intro {
-  text-align: center;
-  margin: 50px 0;
-}
-
 .section-title {
   color: #024e76;
   font-size: 55px;
-  margin-bottom: 35px;
-  padding: 0 100px 20px 100px;
   border-bottom: 3px solid;
   border-color: #fce138;
-  display: inline-block;
+  padding-bottom: 20px;
+  text-align: center;
+  margin: 0 auto 35px auto;
+  width: 50%;
 }
 .intro p {
   line-height: 1.7;
@@ -155,10 +151,10 @@ button {
   width: 80%;
   font-size: 20px;
   margin: auto;
+  text-align: center;
 }
 
 .steps {
-  text-align: center;
   background-color: #fce138;
 }
 .primary-border {
@@ -201,9 +197,6 @@ button {
   padding-bottom: 100px;
 }
 
-.trainers {
-  text-align: center;
-}
 .trainer {
   width: 900px;
   margin: 0 auto 30px auto;
@@ -249,7 +242,6 @@ button {
 
 .contact {
   background-color: #024e76;
-  text-align: center;
   overflow: auto;
 }
 
@@ -286,4 +278,8 @@ button {
 
 .contact-info a {
   color: #fce138;
+}
+
+.flex-row {
+  display: flex;
 }
